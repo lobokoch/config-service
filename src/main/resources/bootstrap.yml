@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: kerubin-config-service
